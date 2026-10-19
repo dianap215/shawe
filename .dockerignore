@@ -1,0 +1,12 @@
+node_modules
+.git
+.env
+.env.*
+!.env.example
+bk-data
+data
+bin
+*.log
+*.zip
+*.tar.gz
+npm-debug.log*
